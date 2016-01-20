@@ -222,51 +222,6 @@
 									    </div>
 									  </div>
 									</div>
-								<!--<div class="4u 12u$(mobile)">
-									<article class="item">
-										<a href="myModal" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-										<header>
-											<h3>Ipsum Feugiat</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
-										<header>
-											<h3>Rhoncus Semper</h3>
-										</header>
-									</article>
-								</div>
-								<div class="4u 12u$(mobile)">
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
-										<header>
-											<h3>Magna Nullam</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
-										<header>
-											<h3>Natoque Vitae</h3>
-										</header>
-									</article>
-								</div>
-								<div class="4u$ 12u$(mobile)">
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
-										<header>
-											<h3>Dolor Penatibus</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
-										<header>
-											<h3>Orci Convallis</h3>
-										</header>
-									</article>
-								</div>
-							</div>
-							-->
-							
 						</div>
 						<a href="galeria.html#portfolio" style="float:right;" type="button" class="btn btn-primary">Toda La Galeria</a>
 					</section>
@@ -280,15 +235,15 @@
 								<h2>Contacto</h2>
 							</header>
 
-							<form method="post" action="#">
+							<form action="#" method="post">
 								<div class="row">
-									<div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>
-									<div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
+									<div class="6u 12u$(mobile)"><input type="text" id="nombre" name="nombre" placeholder="Name" /></div>
+									<div class="6u$ 12u$(mobile)"><input type="text" id="email" name="email" placeholder="Email" /></div>
 									<div class="12u$">
-										<textarea name="message" placeholder="Message"></textarea>
+										<textarea id="mensaje" name="mensaje" placeholder="Message"></textarea>
 									</div>
 									<div class="12u$">
-										<input type="submit" value="Send Message" />
+										<input type="submit" name="submit" value="Send Message" />
 									</div>
 								</div>
 							</form>
