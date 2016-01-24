@@ -18,17 +18,17 @@
 					<!-- Logo -->
 						<div id="logo">
 							<span class="image avatar48"><img src="images/avatar.jpg" alt="" /></span>
-							<h1 id="title">Dreams Travel</h1>
-							<p>Distribuidora Independiente</p>
+							<h1 id="title" style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">Dreams Travel</h1>
+							<p style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">Distribuidor Independiente</p>
 						</div>
 
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
-								<li><a href="#myCarousel" id="top-link" class="skel-layers-ignoreHref"><span class="icon fa-home">Inicio</span></a></li>
-								<li><a href="#about" id="about-link" class="skel-layers-ignoreHref"><span class="icon fa-user">Acerca de Nosotros</span></a></li>
-								<li><a href="#portfolio" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-th">Galeria</span></a></li>
-								<li><a href="#contact" id="contact-link" class="skel-layers-ignoreHref"><span class="icon fa-envelope">Contacto</span></a></li>
+								<li><a href="#myCarousel" id="top-link" class="skel-layers-ignoreHref"><span class="icon fa-home" style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">Inicio</span></a></li>
+								<li><a href="#about" id="about-link" class="skel-layers-ignoreHref"><span class="icon fa-user" style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">Acerca de Nosotros</span></a></li>
+								<li><a href="#portfolio" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-th" style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">Galeria</span></a></li>
+								<li><a href="#contact" id="contact-link" class="skel-layers-ignoreHref"><span class="icon fa-envelope" style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">Contacto</span></a></li>
 							</ul>
 						</nav>
 
@@ -58,35 +58,35 @@
 							<div id="myCarousel" class="carousel slide" data-ride="carousel">
 							  <!-- Indicators -->
 							  <ol class="carousel-indicators">
-							    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-							    <li data-target="#myCarousel" data-slide-to="1"></li>
-							    <li data-target="#myCarousel" data-slide-to="2"></li>
+								<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+								<li data-target="#myCarousel" data-slide-to="1"></li>
+								<li data-target="#myCarousel" data-slide-to="2"></li>
 							  </ol>
 
 							  <!-- Wrapper for slides -->
 							  <div class="carousel-inner" role="listbox">
-							    <div class="item active">
-							      <img class="image fit" src="images/banner.jpg" alt="Chania">
-							    </div>
+								<div class="item active">               
+								  <img class="image fit" src="images/banner.jpg" alt="Chania">
+								</div>
 
-							    <div class="item">
-							      <img class="image fit" src="images/banner2.jpg" alt="Chania">
-							    </div>
+								<div class="item">
+								  <img class="image fit" src="images/banner2.jpg" alt="Chania">
+								</div>
 
-							    <div class="item">
-							      <img class="image fit" src="images/banner3.jpg" alt="Flower">
-							    </div>
-
+								<div class="item">
+								  <img class="image fit" src="images/banner3.jpg" alt="Flower">
+								</div>
+  
 							  </div>
 
 							  <!-- Left and right controls -->
 							  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-							    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-							    <span class="sr-only">Previous</span>
+								<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+								<span class="sr-only">Previous</span>
 							  </a>
 							  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-							    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-							    <span class="sr-only">Next</span>
+								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+								<span class="sr-only">Next</span>
 							  </a>
 							</div>
 						</div>
@@ -96,11 +96,11 @@
 						<div class="container-fluid">
 
 							<header>
-								<h2>Acerca de Nosotros</h2>
+								<h2 style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">Acerca de Nosotros</h2>
 							</header>
 
-							<p class="lead text-center">En <b>Dreams Travels</b> podrás encontrar todo para tu viaje, comprar y cotizar: vuelos, hoteles, renta de automóviles, seguros de viajes, cruceros y mucho más. Así como planear tus viajes corporativos, congresos, convenciones, y otras actividades grupales.  Además con la capacidad de  brindarte una oportunidad de trabajo dentro de nuestro equipo, si los retos, el emprender y el éxito definen tu personalidad esta propuesta es para ti.</p>
-							<a href="about.html#about" style="float:right;" type="button" class="btn btn-primary" href="www.google.com">Mas Sobre Nosotros</a>
+							<p class="lead text-center"style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">En <b>Dreams Travels</b> podrás encontrar todo para tu viaje, comprar y cotizar: vuelos, hoteles, renta de automóviles, seguros de viajes, cruceros y mucho más. Así como planear tus viajes corporativos, congresos, convenciones, y otras actividades grupales.  Además con la capacidad de  brindarte una oportunidad de trabajo dentro de nuestro equipo, si los retos, el emprender y el éxito definen tu personalidad esta propuesta es para ti.</p>
+							<a href="about.html#about" style="float:right; font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;" type="button" class="btn btn-success" >Mas Sobre Nosotros</a>
 						</div>
 					</section>
 
@@ -110,121 +110,117 @@
 						<div class="container-fluid">
 
 							<header>
-								<h2>Galeria</h2>
+								<h2 style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">Galeria</h2>
 							</header>
 
-							<div class="row">
+							<div><center>
+								<div id="myCarousel2" class="carousel slide" data-ride="carousel" style="width: 50%; height: 10%; background-color: #222629;" >
+								  <!-- Indicators -->
+								  <ol class="carousel-indicators">
+									<li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+									<li data-target="#myCarousel2" data-slide-to="1"></li>
+									<li data-target="#myCarousel2" data-slide-to="2"></li>
+									<li data-target="#myCarousel2" data-slide-to="3"></li>
+									<li data-target="#myCarousel2" data-slide-to="4"></li>
+								  </ol>
 
-								<div class="col-lg-3 col-md-4 col-xs-6 thumb">
-						                <a class="thumbnail" href="#">
-						                     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
-						                     	<img class="img-responsive" src="images/pic02.jpg" alt="">
-						                     </button>
-						                </a>
-						            </div>
-
-									<div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-									  <div class="modal-dialog">
-									    <div class="modal-content">
-									        <div class="modal-body">
-									           <img class="img-responsive" src="images/pic02.jpg" alt="">
-									        </div>
-									    </div>
-									  </div>
+								  <!-- Wrapper for slides -->
+								  <div class="carousel-inner" role="listbox">
+									<div class="item active">               
+										<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+												<img class="img-responsive" src="images/pic02.jpg" alt="">
+											 </button>
 									</div>
 
-						            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-						                <a class="thumbnail" href="#">
-						                     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModa2">
-						                     	<img class="img-responsive" src="images/pic03.jpg" alt="">
-						                     </button>
-						                </a>
-						            </div>
+									<div class="item">
+											<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModa2">
+												<img class="img-responsive" src="images/pic03.jpg" alt="">
+											 </button>
+									</div>
+
+									<div class="item">
+									  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModa3">
+												<img class="img-responsive" src="images/pic04.jpg" alt="">
+											 </button>
+									</div>
+
+									<div class="item">
+									  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModa4">
+												<img class="img-responsive" src="images/pic05.jpg" alt="">
+											 </button>
+									</div>
+
+									<div class="item">
+									  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModa5">
+												<img class="img-responsive" src="images/pic06.jpg" alt="">
+											 </button>
+									</div>
+									
+	  							</div>	
+
+								  <!-- Left and right controls -->
+								  <a class="left carousel-control" href="#myCarousel2" role="button" data-slide="prev">
+									<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+									<span class="sr-only">Previous</span>
+								  </a>
+								  <a class="right carousel-control" href="#myCarousel2" role="button" data-slide="next">
+									<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+									<span class="sr-only">Next</span>
+								  </a>
+								</div>									
+						</center></div>
+						<a href="galeria.html#portfolio" style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;float:right;" type="button" class="btn btn-success">Toda La Galeria</a>
+					
+						<div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+									  <div class="modal-dialog">
+										<div class="modal-content">
+											<div class="modal-body">
+											   <img class="img-responsive" src="images/pic02.jpg" alt="">
+											</div>
+										</div>
+									  </div>
+									</div>
 
 									<div id="myModa2" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 									  <div class="modal-dialog">
-									    <div class="modal-content">
-									        <div class="modal-body">
-									           <img class="img-responsive" src="images/pic03.jpg" alt="">
-									        </div>
-									    </div>
+										<div class="modal-content">
+											<div class="modal-body">
+											   <img class="img-responsive" src="images/pic03.jpg" alt="">
+											</div>
+										</div>
 									  </div>
 									</div>
-
-						            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-						                <a class="thumbnail" href="#">
-						                     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModa3">
-						                     	<img class="img-responsive" src="images/pic04.jpg" alt="">
-						                     </button>
-						                </a>
-						            </div>
 
 									<div id="myModa3" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 									  <div class="modal-dialog">
-									    <div class="modal-content">
-									        <div class="modal-body">
-									           <img class="img-responsive" src="images/pic04.jpg" alt="">
-									        </div>
-									    </div>
+										<div class="modal-content">
+											<div class="modal-body">
+											   <img class="img-responsive" src="images/pic04.jpg" alt="">
+											</div>
+										</div>
 									  </div>
 									</div>
-
-									 <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-						                <a class="thumbnail" href="#">
-						                     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModa4">
-						                     	<img class="img-responsive" src="images/pic05.jpg" alt="">
-						                     </button>
-						                </a>
-						            </div>
 
 									<div id="myModa4" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 									  <div class="modal-dialog">
-									    <div class="modal-content">
-									        <div class="modal-body">
-									           <img class="img-responsive" src="images/pic05.jpg" alt="">
-									        </div>
-									    </div>
+										<div class="modal-content">
+											<div class="modal-body">
+											   <img class="img-responsive" src="images/pic05.jpg" alt="">
+											</div>
+										</div>
 									  </div>
 									</div>
-
-									 <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-						                <a class="thumbnail" href="#">
-						                     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModa5">
-						                     	<img class="img-responsive" src="images/pic06.jpg" alt="">
-						                     </button>
-						                </a>
-						            </div>
 
 									<div id="myModa5" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 									  <div class="modal-dialog">
-									    <div class="modal-content">
-									        <div class="modal-body">
-									           <img class="img-responsive" src="images/pic06.jpg" alt="">
-									        </div>
-									    </div>
+										<div class="modal-content">
+											<div class="modal-body">
+											   <img class="img-responsive" src="images/pic06.jpg" alt="">
+											</div>
+										</div>
 									  </div>
-									</div>
-
-									 <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-						                <a class="thumbnail" href="#">
-						                     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModa6">
-						                     	<img class="img-responsive" src="images/pic07.jpg" alt="">
-						                     </button>
-						                </a>
-						            </div>
-
-									<div id="myModa6" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-									  <div class="modal-dialog">
-									    <div class="modal-content">
-									        <div class="modal-body">
-									           <img class="img-responsive" src="images/pic07.jpg" alt="">
-									        </div>
-									    </div>
-									  </div>
-									</div>
-						</div>
-						<a href="galeria.html#portfolio" style="float:right;" type="button" class="btn btn-primary">Toda La Galeria</a>
-					</section>
+									</div>	
+					</div></section>
 
 				
 				<!-- Contact -->
@@ -232,7 +228,7 @@
 						<div class="container-fluid">
 
 							<header>
-								<h2>Contacto</h2>
+								<h2 style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">Contacto</h2>
 							</header>
 
 							<form action="#" method="post">

@@ -1713,8 +1713,8 @@
 		}
 
 			.image.avatar48 img {
-				width: 48px;
-				height: 48px;
+				width: 58px;
+				height: 58px;
 			}
 
 		.image.fit {
@@ -2001,7 +2001,7 @@
 		}
 
 		#header .icons {
-			font-size: 0.8em;
+			font-size: 1.3em;
 			margin: 0 0 1em 0;
 			text-align: center;
 		}
@@ -2029,14 +2029,14 @@
 			position: relative;
 			color: #fff;
 			font-weight: 600;
-			font-size: 1em;
+			font-size: 1.2em;
 			line-height: 1em;
 		}
 
 		#logo p {
 			position: relative;
 			display: block;
-			font-size: 0.6em;
+			font-size: 0.9em;
 			color: rgba(255, 255, 255, 0.5);
 			line-height: 1.25em;
 			margin: 0.5em 0 0 0;
@@ -2064,7 +2064,7 @@
 		#nav ul li a span {
 			position: relative;
 			display: block;
-			font-size: 0.8em;
+			font-size: 1.2em;
 		}
 
 			#nav ul li a span:before {
