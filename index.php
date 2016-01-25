@@ -27,6 +27,9 @@
 							<ul>
 								<li><a href="#myCarousel" id="top-link" class="skel-layers-ignoreHref"><span class="icon fa-home" style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">Inicio</span></a></li>
 								<li><a href="#about" id="about-link" class="skel-layers-ignoreHref"><span class="icon fa-user" style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">Acerca de Nosotros</span></a></li>
+								
+								<li><a href="#services" id="services-link" class="skel-layers-ignoreHref"><span class="icon fa-plane" style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">Servicios</span></a></li>
+
 								<li><a href="#portfolio" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-th" style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">Galeria</span></a></li>
 								<li><a href="#contact" id="contact-link" class="skel-layers-ignoreHref"><span class="icon fa-envelope" style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">Contacto</span></a></li>
 							</ul>
@@ -105,8 +108,21 @@
 					</section>
 
 
+						<!-- Services -->
+					<section id="services" class="two">
+						<div class="container-fluid">
+
+							<header>
+								<h2 style="font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;">SERVICIOS</h2>
+							</header>
+
+							<a href="http://www.agenciadeviajesvirtual.com/Home/Index/48304" style="float:center; font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;" type="button" class="btn btn-success" >Todos Nuestros Servicios</a>
+						</div>
+					</section>
+
+							
 				<!-- Portfolio -->
-					<section id="portfolio" class="two">
+					<section id="portfolio" class="three">
 						<div class="container-fluid">
 
 							<header>
